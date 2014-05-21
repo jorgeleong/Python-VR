@@ -1,4 +1,4 @@
-This is my python folder
+This is my python VR folder
 
 I had the luck to work with Python this semester. My applications are to be used in a 
 virtual reality experiment. I created classes to keep track of an individuals position
